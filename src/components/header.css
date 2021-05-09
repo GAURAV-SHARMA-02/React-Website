@@ -1,0 +1,149 @@
+.nav_header {
+  background-color: black;
+  color: white;
+  border-color: rgb(0, 0, 0) !important;
+}
+.nav__item {
+  margin: 0px 15px 0px 15px;
+}
+.nav__img {
+  margin-left: 180px;
+}
+.nav__left {
+  margin-right: 220px;
+}
+.bheader {
+  /* width: 100%; */
+  height: 769px;
+  top: 60px;
+  background: url(Bheader.png) no-repeat;
+  background-size: cover;
+}
+@media only screen and (min-width: 360.1px) {
+  .tohidemin {
+    display: none;
+  }
+}
+@media only screen and (max-width: 360px) {
+  .body__mob {
+    position: absolute;
+    left: 13.33%;
+    right: 55%;
+    top: 30%;
+    bottom: 30%;
+  }
+  .flex__mob {
+    top: 30%;
+    bottom: 30%;
+    /* position: absolute; */
+    margin: 10.5px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    flex-direction: row;
+  }
+  .flex__mob img {
+    padding: 0px 10px 0px 10px;
+  }
+  .ellipse3 {
+    position: absolute;
+    top: 2px;
+    right: 10px;
+  }
+}
+@media only screen and (max-width: 360px) {
+  .tohide {
+    display: none;
+  }
+  .header__mob {
+    position: absolute;
+    width: 359.99px;
+    height: 50px;
+    left: 0px;
+    top: 0px;
+    background: #000000;
+  }
+  .frame906 {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 12px;
+    top: 13px;
+  }
+
+  .fi__x {
+    position: absolute;
+    visibility: hidden;
+    width: 24px;
+    height: 24px;
+    left: 0px;
+    top: 0px;
+  }
+  .__vectora {
+    position: absolute;
+    left: 25%;
+    right: 25%;
+    top: 25%;
+    bottom: 25%;
+    border: 2px solid #ffffff;
+  }
+  .__vectorb {
+    position: absolute;
+    left: 25%;
+    right: 25%;
+    top: 25%;
+    bottom: 25%;
+    border: 2px solid #ffffff;
+  }
+  .equalsto {
+    position: absolute;
+    width: 16px;
+    height: 8px;
+    left: 4px;
+    top: 8px;
+  }
+  .line28 {
+    position: absolute;
+    left: 16.67%;
+    right: 16.67%;
+    top: 66.67%;
+    bottom: 33.33%;
+    border: 0.5px solid #ffffff;
+  }
+  .line27 {
+    position: absolute;
+    left: 16.67%;
+    right: 16.67%;
+    top: 33.33%;
+    bottom: 66.67%;
+    border: 0.5px solid #ffffff;
+  }
+}
+.navbar_toggler_icon {
+  width: 16px;
+  height: 8px;
+  left: 4px;
+  top: 8px;
+  left: 16.67%;
+  right: 16.67%;
+  top: 66.67%;
+  bottom: 33.33%;
+  border: 2px solid #ffffff;
+}
+.tgl {
+  transform: rotate(90deg);
+}
+.ellipse {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  left: 1278px;
+  top: -10px;
+}
+.store2 {
+  position: absolute;
+  top: 0.4%;
+  right: 12%;
+  /* margin-bottom: 4px; */
+  height: 42px;
+}

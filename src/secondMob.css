@@ -1,0 +1,98 @@
+@media only screen and (min-width: 360.1px) {
+  .tohidemin {
+    display: none;
+  }
+}
+.second__mob2 {
+  position: absolute;
+  width: 360px;
+  height: 427px;
+  left: 0px;
+  top: 50px;
+}
+.frame8672 {
+  position: absolute;
+  width: 360px;
+  height: 284px;
+  left: 0px;
+  top: 1434px;
+  background: #f6f6f6;
+}
+.rect2 {
+  position: absolute;
+  width: 256px;
+  height: 48px;
+}
+.rects2 {
+  position: absolute;
+  left: 32px;
+  right: -30.67%;
+  top: 196px;
+  bottom: 0%;
+}
+.label__mobp2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  height: 24px;
+  left: 16px;
+  right: 16px;
+  top: calc(50% - 24px / 2);
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  text-align: center;
+  color: #ffffff !important;
+  z-index: 1;
+}
+.base__mob2 {
+  position: absolute;
+  height: 36px;
+  left: 0px;
+  right: 0px;
+  top: calc(50% - 36px / 2);
+  background: #000000;
+}
+.signed__mob2 {
+  position: absolute;
+  visibility: hidden;
+  width: 1px;
+  height: 1px;
+  left: 0px;
+  top: 0px;
+}
+.userst__mob2 {
+  position: absolute;
+  width: 328px;
+  height: 40px;
+  left: 16px;
+  top: 124px;
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #000000;
+}
+.notsur__mob2 {
+  position: absolute;
+  width: 328px;
+  height: 72px;
+  left: 16px;
+  top: 40px;
+  font-family: Serifa Std;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 28px;
+  line-height: 36px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #000000;
+}

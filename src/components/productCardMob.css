@@ -1,0 +1,575 @@
+@media only screen and (min-width: 360.1px) {
+  .tohidemin {
+    display: none;
+  }
+}
+.mobpcard {
+  height: 516px !important;
+  width: 346px !important;
+  /* margin-top: 15%; */
+  border-radius: 8px;
+  border: 1px solid #dedede;
+  margin-left: 50px;
+  /* flex: 0 0 1; */
+}
+/* .mobovf{
+    display: flex; 
+    flex-wrap: nowrap !important;
+    overflow: auto !important;
+    flex: 0 0 100% !important; 
+    margin-top: 15%;
+    justify-content: center;
+    margin-bottom: 5%;
+} */
+.mobcard__img {
+  height: 260px;
+  /* width: fit-content; */
+  border-radius: 8px 8px 0px 0px !important;
+  margin: 0px !important;
+  padding: 0px !important;
+}
+.mobcard__img__hf {
+  position: absolute;
+  width: 248px;
+  height: 24px;
+  left: 16px;
+  top: 230px;
+
+  /* Heading / XX Small */
+
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height, or 150% */
+
+  /* Dark */
+
+  color: #000000;
+}
+.mobnewLaunch {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 4px 10px;
+
+  position: absolute;
+  width: 87px;
+  height: 24px;
+  left: -3px;
+  top: 17px;
+
+  /* Brand Color / Hair / Dark */
+
+  background: #2a658d;
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  display: flex;
+  align-items: center;
+  color: #ffffff;
+}
+.mobstar {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 4px 10px;
+
+  position: absolute;
+  width: 53px;
+  height: 24px;
+  left: -3px;
+  top: 198px;
+  color: white;
+  background: #000000;
+}
+.mobvline {
+  position: static;
+  width: 24px;
+  height: 0px;
+  left: 42px;
+  top: 0px;
+
+  /* Border On BG */
+
+  border: 1px solid #e6eaea;
+  transform: rotate(90deg);
+
+  /* Inside Auto Layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  margin: 0px 16px;
+}
+.mobcard__box {
+  position: absolute;
+  width: 280px;
+  height: 84px;
+  left: 0px;
+  top: 286px;
+}
+.mobfirst {
+  position: absolute;
+  width: 280px;
+  height: 24px;
+  left: 0px;
+  top: 286px;
+}
+.mobfirst__text {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px;
+
+  position: absolute;
+  width: 221px;
+  height: 24px;
+  left: 18.7px;
+  top: 286px;
+
+  /* New BG */
+
+  background: #f6f6f6;
+}
+.mobfor {
+  position: static;
+  width: 26px;
+  height: 16px;
+  left: 0px;
+  top: 4px;
+
+  font-family: Hack;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.15px;
+
+  /* Dark */
+
+  color: #000000;
+
+  /* Inside Auto Layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin: 0px 16px;
+}
+.mobhar {
+  position: static;
+  width: 163px;
+  height: 16px;
+  left: 58px;
+  top: 4px;
+
+  font-family: Hack;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.15px;
+
+  /* Dark */
+
+  color: #000000;
+
+  /* Inside Auto Layout */
+
+  flex: none;
+  order: 2;
+  flex-grow: 0;
+  margin: 0px 16px;
+}
+.mobgroup {
+  position: absolute;
+  width: 280px;
+  height: 48px;
+  left: 0px;
+  top: 322px;
+  background: #f6f6f6;
+}
+.mobhline {
+  position: absolute;
+  height: 0px;
+  left: 0px;
+  right: 0px;
+  top: 346px;
+
+  /* Border On BG */
+
+  border: 1px solid #e6eaea;
+}
+.mobgroupa {
+  position: absolute;
+  height: 24px;
+  left: 0px;
+  right: 0px;
+  top: 322px;
+
+  /* New BG */
+
+  background: #f6f6f6;
+}
+.mobframe321 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px;
+
+  position: absolute;
+  width: 211px;
+  height: 24px;
+  left: 18.7px;
+  top: 322px;
+
+  /* New BG */
+
+  background: #f6f6f6;
+}
+.mobbtln {
+  position: static;
+  width: 52px;
+  height: 16px;
+  left: 159px;
+  top: 4px;
+
+  font-family: Hack;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.15px;
+
+  /* Dark */
+
+  color: #000000;
+
+  /* Inside Auto Layout */
+
+  flex: none;
+  order: 4;
+  flex-grow: 0;
+  margin: 0px 16px;
+}
+.mobline22 {
+  position: static;
+  width: 24px;
+  height: 0px;
+  left: 143px;
+  top: 0px;
+
+  /* Border On BG */
+
+  border: 1px solid #e6eaea;
+  transform: rotate(90deg);
+
+  /* Inside Auto Layout */
+
+  flex: none;
+  order: 3;
+  flex-grow: 0;
+  margin: 0px 16px;
+}
+.mobktln {
+  position: static;
+  width: 60px;
+  height: 16px;
+  left: 67px;
+  top: 4px;
+
+  font-family: Hack;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.15px;
+
+  /* Dark */
+
+  color: #000000;
+
+  /* Inside Auto Layout */
+
+  flex: none;
+  order: 2;
+  flex-grow: 0;
+  margin: 0px 16px;
+}
+.mobline21 {
+  position: static;
+  width: 24px;
+  height: 0px;
+  left: 51px;
+  top: 0px;
+
+  /* Border On BG */
+
+  border: 1px solid #e6eaea;
+  transform: rotate(90deg);
+
+  /* Inside Auto Layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  margin: 0px 16px;
+}
+.mobwith {
+  position: static;
+  width: 35px;
+  height: 16px;
+  left: 0px;
+  top: 4px;
+
+  font-family: Hack;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.15px;
+
+  /* Dark */
+
+  color: #000000;
+
+  /* Inside Auto Layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin: 0px 16px;
+}
+.mobgroupb {
+  position: absolute;
+  width: 280px;
+  height: 24px;
+  left: 0px;
+  top: 346px;
+}
+.mobvtmn {
+  position: static;
+  width: 86px;
+  height: 16px;
+  left: 127px;
+  top: 4px;
+
+  font-family: Hack;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.15px;
+
+  /* Dark */
+
+  color: #000000;
+
+  /* Inside Auto Layout */
+
+  flex: none;
+  order: 2;
+  flex-grow: 0;
+  margin: 0px 16px;
+}
+.mobline211 {
+  position: static;
+  width: 24px;
+  height: 0px;
+  left: 111px;
+  top: 0px;
+
+  /* Border On BG */
+
+  border: 1px solid #e6eaea;
+  transform: rotate(90deg);
+
+  /* Inside Auto Layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  margin: 0px 16px;
+}
+.mobncmd {
+  position: static;
+  width: 95px;
+  height: 16px;
+  left: 0px;
+  top: 4px;
+
+  font-family: Hack;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.15px;
+
+  /* Dark */
+
+  color: #000000;
+
+  /* Inside Auto Layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin: 0px 16px;
+}
+.mobgroupc {
+  position: absolute;
+  width: 195px;
+  height: 28px;
+  left: 16px;
+  top: 399px;
+}
+.mobframe654 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px;
+  position: absolute;
+  width: 207px;
+  height: 28px;
+  left: 17px;
+}
+.moboff {
+  position: absolute;
+  width: 80px;
+  height: 28px;
+  left: 131px;
+  top: 399px;
+
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 14px;
+  line-height: 28px;
+  /* identical to box height, or 200% */
+
+  display: flex;
+  align-items: center;
+
+  /* Green */
+
+  color: #09864a;
+}
+.mobgroup896 {
+  position: absolute;
+  width: 99px;
+  height: 28px;
+  left: 16px;
+  top: 399px;
+}
+.mobrs3 {
+  position: absolute;
+  width: 57px;
+  height: 25px;
+  left: 16px;
+  top: 400px;
+
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 25px;
+  /* identical to box height */
+
+  display: flex;
+  align-items: center;
+
+  /* Brand Color / Text */
+
+  color: #030303;
+}
+.mobrs1 {
+  position: absolute;
+  width: 34px;
+  height: 28px;
+  left: 81px;
+  top: 399px;
+
+  font-family: Sofia Pro;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 28px;
+  /* identical to box height, or 233% */
+
+  display: flex;
+  align-items: center;
+  text-decoration-line: line-through;
+
+  /* HInt */
+
+  color: #828282;
+}
+.mobgroupd {
+  position: absolute;
+  border-radius: 0px 0px 8px 8px;
+  width: 346px;
+  height: 40px;
+  left: -1px;
+  top: 474.4px;
+  background: #eeeeee;
+}
+.mobrectbbnow {
+  position: absolute;
+  height: 40px;
+  left: 173px;
+  right: 0px;
+  top: 0px;
+  padding-top: 9px;
+  color: white;
+  background: #000000;
+  border-radius: 0px 0px 8px 0px;
+  z-index: 0;
+}
+.mobbnow {
+  height: 16.41px;
+  align-items: center;
+  justify-content: center;
+  right: 51.5px;
+  top: 150px;
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #ffffff;
+  z-index: 1;
+}
+
+.mobacart {
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #000000;
+  position: absolute;
+  height: 16px;
+  left: 42px;
+  right: 215.16px;
+  top: 12px;
+}
+button {
+  background: black;
+
+  box-shadow: 0px 0px 0px transparent;
+
+  border: 0px solid transparent;
+
+  text-shadow: 0px 0px 0px transparent;
+  color: white;
+}

@@ -1,0 +1,225 @@
+.HeaderBox__main {
+  position: absolute;
+  width: 731px;
+  height: 399px;
+  left: 361px;
+  top: 245px;
+  background: #ffffff;
+}
+.title {
+  position: absolute;
+  width: 292px;
+  height: 52px;
+  left: 208px;
+  top: 32px;
+  font-family: Serifa Std;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 44px;
+  line-height: 52px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+.concern {
+  position: absolute;
+  width: 242px;
+  height: 32px;
+  left: 245px;
+  top: 189px;
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 24px;
+  line-height: 32px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #000000;
+}
+.wellness {
+  position: absolute;
+  width: 574px;
+  height: 56px;
+  left: 67px;
+  top: 92px;
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #000000;
+}
+.frame845 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px;
+  position: absolute;
+  width: 397px;
+  height: 130px;
+  left: 167px;
+  top: 237px;
+}
+.frame352 {
+  position: static;
+  width: 111px;
+  height: 130px;
+  left: 286px;
+  top: 0px;
+  background: #ffffff;
+  box-shadow: 0px 0px rgba(0, 0, 0, 0.12);
+  border-radius: 4px;
+  flex: none;
+  order: 2;
+  flex-grow: 0;
+  margin: 0px 32px;
+}
+.frame351 {
+  position: static;
+  width: 111px;
+  height: 130px;
+  left: 143px;
+  top: 0px;
+  background: #ffffff;
+  box-shadow: 0px rgba(0, 0, 0, 0.12);
+  border-radius: 4px;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  margin: 0px 32px;
+}
+.frame350 {
+  position: static;
+  width: 111px;
+  height: 130px;
+  left: 0px;
+  top: 0px;
+  background: #ffffff;
+  box-shadow: 0px rgba(0, 0, 0, 0.12);
+  border-radius: 4px;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin: 0px 32px;
+}
+@media only screen and (max-width: 360px) {
+  .tohide {
+    display: none;
+  }
+}
+@media only screen and (min-width: 360.1px) {
+  .tohidemin {
+    display: none;
+  }
+}
+.frame863 {
+  position: absolute;
+  width: 360px;
+  height: 427px;
+  left: 0px;
+  top: 50px;
+}
+.group878 {
+  position: absolute;
+  width: 328px;
+  height: 346px;
+  /* left: 16px; */
+  top: 15px;
+}
+.group877 {
+  position: absolute;
+  width: 324px;
+  height: 162px;
+  /* left: 18px; */
+  /* top: 224px; */
+}
+.concerns {
+  position: absolute;
+  width: 206px;
+  height: 28px;
+  left: 75px;
+  top: 184px;
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 20px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #000000;
+}
+.group876 {
+  position: absolute;
+  width: 324px;
+  /* height: 118px; */
+  /* left: 18px; */
+  /* top: 268px; */
+}
+.frame866 {
+  position: absolute;
+  width: 92px;
+  height: 118px;
+  left: 239px;
+  top: 238px;
+  background: #ffffff;
+  box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.12);
+  border-radius: 4px;
+}
+.frame865 {
+  box-sizing: content-box;
+  position: absolute;
+  width: 92px;
+  height: 118px;
+  left: 122px;
+  top: 238px;
+  background: #ffffff;
+  box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.12);
+  border-radius: 4px;
+  /* z-index: 1; */
+}
+.frame864 {
+  position: absolute;
+  width: 82px !important;
+  height: 118px;
+  left: 6px;
+  top: 238px;
+  background: #ffffff;
+  box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.12);
+  border-radius: 4px;
+}
+.weare {
+  position: absolute;
+  width: 328px;
+  height: 60px;
+  left: 16px;
+  top: 90px;
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #000000;
+}
+.medium {
+  width: 328px;
+  height: 72px;
+  left: 16px;
+  top: 40px;
+  font-family: Serifa Std;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 28px;
+  line-height: 36px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #000000;
+}
