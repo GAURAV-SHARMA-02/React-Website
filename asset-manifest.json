@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/React-Website/static/css/main.883113b2.chunk.css",
+    "main.js": "/React-Website/static/js/main.d1e0973d.chunk.js",
+    "main.js.map": "/React-Website/static/js/main.d1e0973d.chunk.js.map",
+    "runtime-main.js": "/React-Website/static/js/runtime-main.2d783e07.js",
+    "runtime-main.js.map": "/React-Website/static/js/runtime-main.2d783e07.js.map",
+    "static/css/2.800be05e.chunk.css": "/React-Website/static/css/2.800be05e.chunk.css",
+    "static/js/2.d92b93ca.chunk.js": "/React-Website/static/js/2.d92b93ca.chunk.js",
+    "static/js/2.d92b93ca.chunk.js.map": "/React-Website/static/js/2.d92b93ca.chunk.js.map",
+    "static/js/3.c86cf1b9.chunk.js": "/React-Website/static/js/3.c86cf1b9.chunk.js",
+    "static/js/3.c86cf1b9.chunk.js.map": "/React-Website/static/js/3.c86cf1b9.chunk.js.map",
+    "index.html": "/React-Website/index.html",
+    "static/css/2.800be05e.chunk.css.map": "/React-Website/static/css/2.800be05e.chunk.css.map",
+    "static/css/main.883113b2.chunk.css.map": "/React-Website/static/css/main.883113b2.chunk.css.map",
+    "static/js/2.d92b93ca.chunk.js.LICENSE.txt": "/React-Website/static/js/2.d92b93ca.chunk.js.LICENSE.txt",
+    "static/media/header.css": "/React-Website/static/media/Bheader.092bd02e.png",
+    "static/media/Frame352.6eca8c13.png": "/React-Website/static/media/Frame352.6eca8c13.png",
+    "static/media/card-img.fbb92a9b.png": "/React-Website/static/media/card-img.fbb92a9b.png",
+    "static/media/last.b11012e9.png": "/React-Website/static/media/last.b11012e9.png",
+    "static/media/store.9efb7884.JPG": "/React-Website/static/media/store.9efb7884.JPG",
+    "static/media/store2.81511d65.JPG": "/React-Website/static/media/store2.81511d65.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d783e07.js",
+    "static/css/2.800be05e.chunk.css",
+    "static/js/2.d92b93ca.chunk.js",
+    "static/css/main.883113b2.chunk.css",
+    "static/js/main.d1e0973d.chunk.js"
+  ]
+}
